@@ -1,3 +1,15 @@
 random text nothing special
 
-master branch MORE TEXT ADDED
+<<<<<<< HEAD
+commit 2 added more useless text
+
+commit 3 added even more text
+
+commit 4 why not add even MORE text?!
+=======
+commit 2 added more useless text
+
+commit 3 added even more text
+
+commit 4 why not add even MORE text?!
+>>>>>>> second-branch
