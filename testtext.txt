@@ -1,3 +1,7 @@
 random text nothing special
 
 commit 2 added more useless text
+
+commit 3 added even more text
+
+commit 4 why not add even MORE text?!
